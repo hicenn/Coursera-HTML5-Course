@@ -1,0 +1,14 @@
+#header-nav {
+  background-color: #303f9f;
+  border-radius: 0;
+  border: 0;
+}
+section{
+    background-color: #ccc;
+    height: 1000px;
+    margin: 2px;
+    padding: 20px;
+}
+#nav-list li{
+    border-bottom: 1px solid #000;
+}

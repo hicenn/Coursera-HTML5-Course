@@ -27,16 +27,27 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
+    margin-top: 40px;
 }
+
 section {
     background-color: #ccc;
     position: relative;
-    border: 2px solid #444;
-    width: 90%;
+    border: 10px solid #fff;
+    width: 100%;
+
+  
+/*
     margin: 20px auto;
     padding: 20px;
     padding-top: 60px;
+*/
     overflow: hidden;
+/*      margin: 10px;*/
+    padding: 15px;
+    
+    
+  
 }
 h3 {
     border: 2px solid #222;
